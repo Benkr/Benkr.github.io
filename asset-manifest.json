@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Quadratic/static/css/main.a78c7508.chunk.css",
+    "main.js": "/Quadratic/static/js/main.905825f0.chunk.js",
+    "main.js.map": "/Quadratic/static/js/main.905825f0.chunk.js.map",
+    "runtime-main.js": "/Quadratic/static/js/runtime-main.0f63781f.js",
+    "runtime-main.js.map": "/Quadratic/static/js/runtime-main.0f63781f.js.map",
+    "static/js/2.92cdd640.chunk.js": "/Quadratic/static/js/2.92cdd640.chunk.js",
+    "static/js/2.92cdd640.chunk.js.map": "/Quadratic/static/js/2.92cdd640.chunk.js.map",
+    "static/js/3.028e1e3c.chunk.js": "/Quadratic/static/js/3.028e1e3c.chunk.js",
+    "static/js/3.028e1e3c.chunk.js.map": "/Quadratic/static/js/3.028e1e3c.chunk.js.map",
+    "index.html": "/Quadratic/index.html",
+    "static/css/main.a78c7508.chunk.css.map": "/Quadratic/static/css/main.a78c7508.chunk.css.map",
+    "static/js/2.92cdd640.chunk.js.LICENSE.txt": "/Quadratic/static/js/2.92cdd640.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f63781f.js",
+    "static/js/2.92cdd640.chunk.js",
+    "static/css/main.a78c7508.chunk.css",
+    "static/js/main.905825f0.chunk.js"
+  ]
+}
